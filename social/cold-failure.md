@@ -1,2 +1,2 @@
 ### I don’t know what you possibly did but you somehow got everyone in the jail to hate you and instead of escaping with some new friends you are now just a punching bag for your cellmates.
-#### Start Over
+#### [Start Over](../beginning/beginning.md)
