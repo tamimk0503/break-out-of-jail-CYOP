@@ -1,0 +1,2 @@
+### Oh oh… They didn’t like that. They beat you to a pulp and you had to be put into extreme medical care. You won’t be able to do.. Well anything for a while.
+#### [Start Over](../beginning/beginning.md)
